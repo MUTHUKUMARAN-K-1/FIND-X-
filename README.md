@@ -21,8 +21,8 @@
   <a href="#-features">Features</a> •
   <a href="#-architecture">Architecture</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-setup">Setup</a> •
-  <a href="#-google-technologies">Google Tech</a>
+  <a href="#-setup-instructions">Setup</a> •
+  <a href="#google-technologies-">Google Tech</a>
 </p>
 
 ---
