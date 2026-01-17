@@ -44,7 +44,7 @@
 
 | 📱 Mobile App | 📊 Analytics Dashboard |
 |---------------|------------------------|
-| [Download APK](https://github.com/MUTHUKUMARAN-K-1/FIND-X-/releases) | [Live Dashboard](https://findx-dashboard.vercel.app) |
+| [Download APK](https://github.com/MUTHUKUMARAN-K-1/FIND-X-/releases) | [Live Dashboard](https://findx-web-portal.vercel.app/) |
 
 ### Video Demo
 ▶️ [Watch Demo Video](https://drive.google.com/drive/folders/1JMCCAw2xpRtKJjiwLQ57Amkgi1Qtr4uc?usp=drive_link)
