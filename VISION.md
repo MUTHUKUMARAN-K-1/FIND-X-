@@ -7,7 +7,7 @@
 
 ---
 
-## 📅 Timeline: 2026-2028
+## 📅 Timeline: 2026-2027 (Two Years)
 
 This document outlines our ambitious yet achievable vision for FindX over the next two years, as we transform from an innovative hackathon project into a platform that reunites millions with their lost belongings worldwide.
 
@@ -87,7 +87,7 @@ This document outlines our ambitious yet achievable vision for FindX over the ne
 
 ---
 
-## 🏆 Year 2 (2027-2028): Scaling Globally & Achieving Sustainability
+## 🏆 Year 2 (2027): Scaling Globally & Achieving Sustainability
 
 ### Personal & Team Growth
 
@@ -243,9 +243,7 @@ This document outlines our ambitious yet achievable vision for FindX over the ne
 - [ ] Launch AR features
 - [ ] Build team to 30 members
 - [ ] Reach 1M users
-
-### 2028
-- [ ] Achieve 2M+ users
+- [ ] Achieve 2M+ users milestone
 - [ ] Establish sustainability and profitability
 - [ ] Expand to 25+ countries
 - [ ] Prepare for Series B or strategic partnerships
