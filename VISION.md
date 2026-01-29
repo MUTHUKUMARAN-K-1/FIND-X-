@@ -233,19 +233,17 @@ This document outlines our ambitious yet achievable vision for FindX over the ne
 - [ ] Reach 100K users
 
 ### Q1-Q2 2027
-- [ ] Launch in 3 new countries
+- [ ] Launch in 3 new countries (total: 4+ countries)
 - [ ] Release B2B enterprise solution
 - [ ] Reach 500K users
 - [ ] Close Series A funding
 
 ### Q3-Q4 2027
-- [ ] Global expansion to 15+ countries
+- [ ] Global expansion to 15+ additional countries (total: 25+ countries)
 - [ ] Launch AR features
-- [ ] Build team to 30 members
-- [ ] Reach 1M users
-- [ ] Achieve 2M+ users milestone
+- [ ] Build team to 50+ members
+- [ ] Reach 2M+ users
 - [ ] Establish sustainability and profitability
-- [ ] Expand to 25+ countries
 - [ ] Prepare for Series B or strategic partnerships
 
 ---
